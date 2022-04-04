@@ -31,15 +31,15 @@ $ npm run app
 
 ## How It Looks
 
-![Home](https://drive.google.com/file/d/1TD6kPirwn9PBO05CUeJR-W4jKQMfgdK1/view?usp=sharing)
+[Home](https://drive.google.com/file/d/1TD6kPirwn9PBO05CUeJR-W4jKQMfgdK1/view?usp=sharing)
 
-![Home](https://drive.google.com/file/d/1tfJUIXzW0hwh2UKtG8O9FABRURheZ5fe/view?usp=sharing)
+[Home](https://drive.google.com/file/d/1tfJUIXzW0hwh2UKtG8O9FABRURheZ5fe/view?usp=sharing)
 
-![Movie](https://drive.google.com/file/d/1E-Y9xxqQ5h7Z3gSMA0ydG1PKSd4pckoD/view?usp=sharing)
+[Movie](https://drive.google.com/file/d/1E-Y9xxqQ5h7Z3gSMA0ydG1PKSd4pckoD/view?usp=sharing)
 
-![Movie](https://drive.google.com/file/d/1lKXd4od7zk1PW0-nLpp0cLTGTi5kYLRK/view?usp=sharing)
+[Movie](https://drive.google.com/file/d/1lKXd4od7zk1PW0-nLpp0cLTGTi5kYLRK/view?usp=sharing)
 
-![Movie](https://drive.google.com/file/d/1UlL8eC7iPbV2nrRST9fNVZdOz4Ww-_N5/view?usp=sharing)
+[Movie](https://drive.google.com/file/d/1UlL8eC7iPbV2nrRST9fNVZdOz4Ww-_N5/view?usp=sharing)
 
 ## License
 
