@@ -1,0 +1,69 @@
+.layout {
+  height: 100vh;
+  background: #fff;
+}
+
+.content {
+  background: #fff;
+}
+
+.home-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: #fff;
+}
+
+.slider {
+  width: 100%;
+  height: 100vh;
+}
+
+.slider-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider-item__container {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.movie-wrapper {
+  position: relative;
+  height: 100%;
+}
+
+.movie {
+  padding: 0 25px;
+}
+
+.movie-wrapper .banner {
+  height: 50%;
+  opacity: 0.75;
+}
+
+.movie__poster {
+  margin-top: -150px;
+  max-width: 250px;
+  border-radius: 25px;
+}
+
+.ant-btn .ant-btn-loading-icon {
+  display: none;
+}
+
+.know-more-btn {
+  border: none;
+  outline: none;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
