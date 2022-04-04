@@ -4,7 +4,7 @@
 
 ## Tech Strategy:
 
-For the simplisity of task deliverables, I've used a simple yet clear design. I divided the react app into two pages "Home" and "Movie".
+For the simplicity of task deliverables, I've used a simple yet clear design. I divided the react app into two pages "Home" and "Movie".
 
 Home page contains a slider that gets the featured movies. When scrolling you'll be able to search and see a default list of 10 movies.
 
