@@ -8,10 +8,6 @@ const GET_MOVIE_FAIL = 'GET_MOVIE_FAIL';
 const LOADING_MOVIE = 'LOADING_MOVIE';
 const LOADING_MOVIES = 'LOADING_MOVIES';
 
-const apikey = process.env.REACT_APP_MOVIES_API_KEY;
-const moviesApi = process.env.REACT_APP_MOVIES_API;
-const movieApi = process.env.REACT_APP_MOVIE_API;
-
 // STATE
 const initialState = {
   movies: [],

@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 import { getMovie } from '../../redux/Movies';
 import { imageUrl } from '../../utils/imageHelper';
 import ReactPlayer from 'react-player';
-import { Col, Row, Space, Tag, Typography, Statistic } from 'antd';
+import { Col, Row, Space, Tag, Typography, Statistic, Spin } from 'antd';
 import Error from '../Error';
 import Review from './Review';
 
@@ -24,7 +24,7 @@ const Movie = () => {
 
   return (
     <>
-      {movie && (
+      {movie ? (
         <div className="movie-wrapper">
           <div
             className="banner"
@@ -100,6 +100,10 @@ const Movie = () => {
             </Col>
           </Row>
         </div>
+      ) : (
+        <Space size="middle">
+          <Spin size="large" />
+        </Space>
       )}
     </>
   );
